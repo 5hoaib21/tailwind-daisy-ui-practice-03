@@ -19,7 +19,7 @@ function App() {
 
       </header>
       <main>
-      <Suspense fallback={<span className="loading loading-ball loading-xl"></span>}>
+      <Suspense fallback={<span className="  loading loading-ball loading-xl"></span>}>
         <PricingOptions PricingPromise={PricingPromise}></PricingOptions>
       </Suspense>
       </main>

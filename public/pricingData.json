@@ -16,6 +16,8 @@
   {
     "id": 2,
     "name": "Standard Plan",
+
+    "populer": true,
     "price": 40,
     "description": "Best for regular users who want guidance and group activities.",
     "features": [
@@ -24,9 +26,7 @@
       "2 personal training sessions",
       "Diet chart guidance",
       "Monthly progress tracking",
-      "Priority support",
-      "Zumba & yoga classes",
-      "Body composition analysis"
+      "Priority support"
     ]
   },
   {
@@ -40,10 +40,7 @@
       "Customized workout plan",
       "Sauna & steam access",
       "Advanced fitness tracking",
-      "Supplement consultation",
-      "Injury prevention guidance",
-      "VIP changing room access",
-      "Free gym merchandise"
+      "Supplement consultation"
     ]
   }
 ]
